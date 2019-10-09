@@ -1,0 +1,11 @@
+﻿  VoxelLogic.cpp
+X:\Code\Venus\Study\VoxelLogic\VoxelLogic.cpp(9,2): error C2065: 'SDL_Window': undeclared identifier
+X:\Code\Venus\Study\VoxelLogic\VoxelLogic.cpp(9,14): error C2065: 'window': undeclared identifier
+X:\Code\Venus\Study\VoxelLogic\VoxelLogic.cpp(15,2): error C2065: 'window': undeclared identifier
+X:\Code\Venus\Study\VoxelLogic\VoxelLogic.cpp(17,3): error C2065: 'SDL_WINDOWPOS_UNDEFINED': undeclared identifier
+X:\Code\Venus\Study\VoxelLogic\VoxelLogic.cpp(18,3): error C2065: 'SDL_WINDOWPOS_UNDEFINED': undeclared identifier
+X:\Code\Venus\Study\VoxelLogic\VoxelLogic.cpp(21,3): error C2065: 'SDL_WINDOW_OPENGL': undeclared identifier
+X:\Code\Venus\Study\VoxelLogic\VoxelLogic.cpp(15,11): error C3861: 'SDL_CreateWindow': identifier not found
+X:\Code\Venus\Study\VoxelLogic\VoxelLogic.cpp(25,6): error C2065: 'window': undeclared identifier
+X:\Code\Venus\Study\VoxelLogic\VoxelLogic.cpp(36,20): error C2065: 'window': undeclared identifier
+X:\Code\Venus\Study\VoxelLogic\VoxelLogic.cpp(36,2): error C3861: 'SDL_DestroyWindow': identifier not found
